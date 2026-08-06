@@ -1,12 +1,14 @@
 # Christopher Sandor
 
-**Applied AI Systems Operator | Forward-Deployed Delivery | AI Transformation**
+**Applied AI Systems Operator | Forward-Deployed Delivery | AI Transformation | Founder, 360 Solutions Group**
 
-I translate ambiguous operating problems into governed, testable AI-assisted systems.
+I turn ambiguous operating problems into governed, testable AI-enabled systems people can understand, operate, and trust.
 
-My work begins before the build. I identify the actual bottleneck, map the workflow and its constraints, define decision and authority boundaries, coordinate AI-assisted implementation through GitHub, and require evidence before a system is trusted.
+I look for the work beneath the workflow, then define the handoff, the trust boundary, and the simplest path to a working system.
 
-**British Columbia, Canada | Remote-first | Available for travel**
+My work starts before the build. I identify the actual bottleneck, map the workflow and its constraints, define decision and authority boundaries, coordinate AI-assisted implementation through GitHub, and require evidence before a system is trusted.
+
+**British Columbia, Canada | Remote-first | Travel-ready | Selective relocation**
 
 ## Delivery Profile
 
@@ -22,7 +24,7 @@ My work begins before the build. I identify the actual bottleneck, map the workf
 
 - **Guarded AI Intake** - Structured capture, validation gates, bounded writes, and human review before downstream action.
 - **Talent Routing** - A governed workflow spanning employers, requisitions, candidates, applications, consent, duplicate controls, outreach gates, and human decisions.
-- **Public Exposure Snapshot** - Cited public-signal extraction, uncertainty-aware synthesis, and buyer-readable diagnostic output.
+- **Public Exposure Snapshot** - Cited public-signal extraction, uncertainty-aware synthesis, and buyer-readable review output.
 - **GitHub execution governance** - A durable issue, branch, scope, validation, and receipt pattern for AI-assisted implementation.
 
 I develop these systems through **360 Solutions Group**, an independent applied-AI operating lab for turning business ambiguity into bounded workflows, prototypes, tests, and evidence packages.
@@ -39,6 +41,8 @@ I develop these systems through **360 Solutions Group**, an independent applied-
 
 ## Public Evidence
 
+- [360 Solutions Group](https://www.myagentleadsgenerator.com) - Live public site. I designed and deployed the site and its intake path, including a delivery layer that fails closed: if a submission cannot be delivered, the form refuses it and surfaces direct contact details rather than confirming receipt it cannot honor.
+- [Lead Path Integrity](case-studies/lead-path-integrity.md) - Case study on that intake path: choosing the failure mode deliberately, correcting a wrong first hypothesis from runtime evidence, adding a validation gate to the manual step, and verifying both the success and failure paths before trusting it.
 - [Cockpit](https://github.com/Macking360/Cockpit) - An archived, redacted, read-only operator surface for evaluating whether distributed workers are healthy enough to receive governed work. [View the public sample](https://macking360.github.io/Cockpit/).
 
 Active operating repositories remain private by design. Public artifacts are released only when they can be understood without exposing client information, credentials, private infrastructure, or internal control surfaces.
@@ -51,4 +55,4 @@ That experience shaped a practical systems instinct: real work has physical cons
 
 ## Role Direction
 
-I am focused on Canada-based opportunities in forward-deployed engineering, applied AI solutions, AI implementation and transformation, agentic AI delivery, and solutions architecture with implementation ownership.
+I am focused on remote-first or Canada-based opportunities in forward-deployed engineering, applied AI solutions, AI implementation and transformation, agentic AI delivery, and solutions architecture with implementation ownership.
