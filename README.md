@@ -10,6 +10,8 @@ My work starts before the build. I identify the actual bottleneck, map the workf
 
 **British Columbia, Canada | Remote-first | Travel-ready | Selective relocation**
 
+[LinkedIn](https://www.linkedin.com/in/christopher-sandor-2b16b01b3) · [360 Solutions Group](https://www.myagentleadsgenerator.com)
+
 ## Delivery Profile
 
 | Area | What I contribute |
@@ -43,7 +45,7 @@ I develop these systems through **360 Solutions Group**, an independent applied-
 
 - [360 Solutions Group](https://www.myagentleadsgenerator.com) - Live public site. I designed and deployed the site and its intake path, including a delivery layer that fails closed: if a submission cannot be delivered, the form refuses it and surfaces direct contact details rather than confirming receipt it cannot honor.
 - [Lead Path Integrity](case-studies/lead-path-integrity.md) - Case study on that intake path: choosing the failure mode deliberately, correcting a wrong first hypothesis from runtime evidence, adding a validation gate to the manual step, and verifying both the success and failure paths before trusting it.
-- [Cockpit](https://github.com/Macking360/Cockpit) - An archived, redacted, read-only operator surface for evaluating whether distributed workers are healthy enough to receive governed work. [View the public sample](https://macking360.github.io/Cockpit/).
+- [Cockpit](https://github.com/Macking360/Cockpit) - An earlier operator surface for judging whether distributed workers were healthy enough to receive governed work. Archived and superseded; kept public as a redacted, read-only sample of the method, not as current work. [View the sample](https://macking360.github.io/Cockpit/).
 
 Active operating repositories remain private by design. Public artifacts are released only when they can be understood without exposing client information, credentials, private infrastructure, or internal control surfaces.
 
